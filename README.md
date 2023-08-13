@@ -1,7 +1,8 @@
 # assighnment-springbootAPI
 Assighnment
-database load in action.properties file is locally hosted
-and example format for json is
+database "load" in action.properties file is locally hosted.
+
+And example format for json is
 {
     "shipperId": 12345,
     "loadingPoint": "Delhi",
