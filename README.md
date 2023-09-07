@@ -1,5 +1,6 @@
 # assighnment-springbootAPI
 Assighnment
+database used-postgreSQL
 database "load" in action.properties file is locally hosted.
 
 And example format for json is
